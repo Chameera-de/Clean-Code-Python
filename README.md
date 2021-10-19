@@ -1,6 +1,6 @@
 # Clean-Code-python
 
-[![Build Status]()](https://github.com/Chameera-de/Clean-Code-Python)
+[![Build Status](https://github.com/Chameera-de/Clean-Code-Python)](https://github.com/Chameera-de/Clean-Code-Python)
 [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/download/releases/3.8.3/)
 
 ## Table of Contents
@@ -16,7 +16,7 @@
      5. [D: Dependency Inversion Principle (DIP)](#dependency-inversion-principle-dip)
   6. [Don't repeat yourself (DRY)](#dont-repeat-yourself-dry)
   7. [Translation](#translation)
-  8.[Team](#Team)
+  8. [Team](#team)
 
 ## Introduction
 
@@ -29,7 +29,7 @@ Not every principle herein has to be strictly followed, and even fewer will be u
 agreed upon. These are guidelines and nothing more, but they are ones codified over many
 years of collective experience by the authors of *Clean Code*.
 
-Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
 
 Targets Python3.7+
 
