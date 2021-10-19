@@ -1,6 +1,6 @@
 # Clean-Code-python
 
-[![Build Status](https://travis-ci.com/zedr/clean-code-python.svg?branch=master)](https://travis-ci.com/zedr/clean-code-python)
+[![Build Status]()](https://github.com/Chameera-de/Clean-Code-Python)
 [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/download/releases/3.8.3/)
 
 ## Table of Contents
